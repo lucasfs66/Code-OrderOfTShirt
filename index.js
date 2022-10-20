@@ -7,7 +7,7 @@ const tshirt = (str) => {
 
     let resulte = [...sArray, ...mArray, ...lArray]
 
-    console.log(resulte)
+    console.log(resulte.join(''))
 
 }
 
